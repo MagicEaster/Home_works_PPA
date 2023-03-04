@@ -44,7 +44,7 @@
         }
     }
 
-    public class StorageReport
+    public class StorageReportNew
     {
         /// <summary>
         /// товарная-накладная
