@@ -1,7 +1,7 @@
 ﻿namespace SOLID
 {
     //плохой пример открытости\закрытости
-    public class EmployeeReport
+    public class StorageReport
     {
         // <summary>
         /// Тип отчета
