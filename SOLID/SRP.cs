@@ -49,7 +49,7 @@
         /// <summary>
         /// товарная-накладная
         /// </summary>
-        public void GenerateConsignmentNote(Storage storage)
+        public void GenerateConsignmentNote(StorageNew storage)
         {
             // Генерация товарной-накладной
         }
